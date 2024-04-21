@@ -1,5 +1,3 @@
-
-bla bla bla 
 Change my file
 Some new changes that are not good.
 Again here.
